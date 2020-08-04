@@ -5,3 +5,5 @@ A shack in the back 40, equipped with:
 - wood burner
 
 Bring your brews travellers
+
+@rick is our godfather
